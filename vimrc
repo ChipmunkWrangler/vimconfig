@@ -11,7 +11,7 @@ augroup END
 set autoindent
 set sw=4 "intendation size
 set showcmd
-set guifont=Monaco:h16 
+set guifont=Hack:h16 
 let g:vimwiki_list = [
                         \{'path': '~/Dropbox/AllKnowledgeAndWisdom', 'syntax': 'markdown'},
                         \{'path': '~/Documents/dev/repos/einmaleins/docs/wiki', 'syntax': 'markdown', 'ext': '.markdown'}, 
